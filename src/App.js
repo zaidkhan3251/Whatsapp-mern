@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       
-        <img src={logo} className="App-logo" alt="logo" />
+        <strong>zaid khan here!!!!!!!!!!!!!!!!!!!!!!!!1</strong>
         
     </div>
   );
